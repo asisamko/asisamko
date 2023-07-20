@@ -4,9 +4,6 @@
 
 <h3 align="center">I am a young developer with an internet name asisamko.</h3>
 
-###
-
-![snake gif](https://github.com/asisamko/asisamko/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
@@ -19,7 +16,7 @@
 ###
 
 <h2 align="left">I'm using:</h2>
-Python, HTML, CSS, JavaScript
+Python, HTML, CSS and JavaScript
 
 ###
 
@@ -38,7 +35,7 @@ Python, HTML, CSS, JavaScript
 </div>
 
 ###
-
+Adobe After Effects, Premiere Pro and Photoshop
 <div align="left">
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
   <img width="12" />

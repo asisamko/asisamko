@@ -8,6 +8,12 @@
   <img src="gitartwork.svg" alt="Git Artwork">
 </p>
 
+<h2 align="left">About me:</h2>
+
+###
+
+<h4 align="left">✨ Creating bugs since 2019<br>📚 I'm currently working on: Ngl.Link Flooder<br>🚩 Next project: Nothing upcoming<br>🎯 Goals: finish everything I start<br>🎲 Fun fact: I am a Discord bot developer<br>💽 Using: Windows, Kali Linux, iOS<br>👀 Discord bot and Roblox game dev</h4>
+
 ###
 
 <h2 align="left">I'm using:</h2>

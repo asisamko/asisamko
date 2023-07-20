@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">Programming language:</p>
+<h3 align="center">Programming language:</h3>
 
 ###
 

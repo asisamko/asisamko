@@ -6,8 +6,8 @@
 
 ###
 
-![Snake animation](https://github.com/asisamko/asisamko/blob/output/github-contribution-grid-snake.svg)
-lol snake
+![snake gif](https://github.com/asisamko/asisamko/blob/output/github-contribution-grid-snake.gif)
+
 ###
 
 <h2 align="left">About me:</h2>

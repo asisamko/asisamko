@@ -40,20 +40,20 @@
 
 ###
 
-<p align="center">Creativity:</p>
+<h3 align="center">Creativity:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="50" alt="premierepro logo"  />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="50" alt="adobeaftereffects logo"  />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="adobeaftereffects logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="50" alt="adobephotoshop logo"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </div>
 
 ###

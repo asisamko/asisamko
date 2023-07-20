@@ -19,6 +19,7 @@
 ###
 
 <h2 align="left">I'm using:</h2>
+Python, HTML, CSS, JavaScript
 
 ###
 

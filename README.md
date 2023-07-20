@@ -10,20 +10,15 @@
 
 ###
 
-<h2 align="left">About me:</h2>
-
-###
-
-<h3 align="left">✨Creating bugs since<b> 2019<br>📚 <b>I'm currently working on:Ngl.Link Flooder<br>🚩 Next project: Nothing upcoming<br>🎯 Goals: finish everything I start<br>🎲 Fun fact: I am a Discord bot developer<br>💽 Using: Windows, Kali Linux, iOS<br>👀 Discord bot and Roblox game dev</h3>
-
-###
-
 <h2 align="left">I'm using:</h2>
-Python, HTML, CSS and JavaScript
 
 ###
 
-<div align="left">
+<p align="center">Programming language:</p>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -38,13 +33,21 @@ Python, HTML, CSS and JavaScript
 </div>
 
 ###
-Adobe After Effects, Premiere Pro and Photoshop
-<div align="left">
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
+
+<p align="center">Creativity:</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="adobeaftereffects logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </div>
 
 ###

@@ -1,7 +1,4 @@
 <h1 align="center">Welcome to my page! 👋</h1>
-
-###
-
 <h3 align="center">I am a young developer with an internet name asisamko.</h3>
 
 <p align="center">

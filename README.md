@@ -1,3 +1,2 @@
-too lame to write this...
-
-### all school and group projects -> https://gitea.oryks.org
+>[!WARNING]
+>loves to mess with stuff and see what happens.

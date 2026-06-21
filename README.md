@@ -7,11 +7,11 @@ A student learning software development, building small projects to improve my s
 - 🟣 Backend: **Elysia.js**
 - 🐘 Database: **PostgreSQL**
 - 🧩 ORM: **Prisma**
-- 🎨 UI/UX Design: **Figma (web & mobile interfaces)**
-
+- 🎨 UI/UX Design: **Figma** - web design
+  
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m focused on understanding how backend systems work from APIs and authentication to database design and data flow.
 
@@ -20,7 +20,7 @@ I enjoy building things that work efficiently behind the scenes and experimentin
 
 ---
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
 - Building REST APIs and backend services
 

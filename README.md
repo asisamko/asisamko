@@ -16,15 +16,3 @@ A student learning software development, building small projects to improve my s
 I’m focused on understanding how backend systems work from APIs and authentication to database design and data flow.
 
 I enjoy building things that work efficiently behind the scenes and experimenting with how systems behave.
-
-
----
-
-## What I'm Working On
-
-- Building REST APIs and backend services
-
-- Improving database design with PostgreSQL
-
-- Working with Prisma ORM
-

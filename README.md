@@ -5,8 +5,7 @@ A student learning software development, building small projects to improve my s
 ## ⚙️ Tech Stack
 
 - 🟣 Backend: **Elysia.js**
-- 🐘 Database: **PostgreSQL**
-- 🧩 ORM: **Prisma**
+- 🐘 Database: **PostgreSQL** + **Prisma**
 - 🎨 UI/UX Design: **Figma** - web design
   
 ---
